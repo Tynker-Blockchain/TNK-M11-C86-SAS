@@ -45,7 +45,7 @@ def home():
                 'index': 1,
                 'timestamp': time(),
                 'transaction': transaction,
-                'previousHash': "No Prevoius Hash Present. Since this is the first block.",
+                'previousHash': "No Previous Hash Present. Since this is the first block.",
             }
         
         # Create newBlock using blockData
